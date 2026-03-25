@@ -1,0 +1,7 @@
+# una-palgprog-pratica01
+
+programa {
+  funcao inicio() {
+    escreva("ola, mundo!")
+  }
+}
